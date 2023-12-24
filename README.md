@@ -32,6 +32,7 @@ Complete app replacement with Home Assistant for Dreame robot vacuums.
   - `dreame.vacuum.p2259` *(D9 Max)*
   - `dreame.vacuum.p2187` *(D9 Pro)*
   - `dreame.vacuum.r2205` *(D10 Plus)*
+  - `dreame.vacuum.r2251a` *(L10 Prime)*
   - `dreame.vacuum.p2029` *(L10 Pro)*
   - `dreame.vacuum.p2028a` *(L10 Plus)*
   - `dreame.vacuum.r2228o` *(L10s Ultra)*
